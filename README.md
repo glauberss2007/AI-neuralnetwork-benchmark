@@ -27,8 +27,19 @@ A individual is defined by a set of numbers that are the parameters of a NN.
 6. When all individual are done we create a new generation composed by the bests of previous one mixing best parameters
 7. A mutation is a simply and rare random modification of a parameter allowing emergence of new solutions
 
-## auto-flappy game
-TODO
+## AI Playing Flappy Bird
+The researcher did not provide any information about what the bird or pipes look like to the agent, and the agent must learn these representations and directly use the input and score to develop an optimal strategy. 
+
+### NN + Genetic Algorithym
+
+### NN + Simulated Anealing
+
+### NN + Tabu Search
+
+### NN + MultiStart
+
+### NN + Variable Neighborhood Search
+
 
 
 
